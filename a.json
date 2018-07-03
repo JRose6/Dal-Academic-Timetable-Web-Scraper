@@ -1,0 +1,11 @@
+{
+    "SUBMIT_FORM_SELECTOR":".pagebodydiv form input[type='submit']",
+    "SUBJECT_LIST_CLASS":".dataentrytable",
+    "TERM_RADIOBUTTONS":"input[name='s_term']",
+    "LIST_LINKS":".dataentrytable a",
+    "URL": "https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule",
+    "COURSENAME":".detthdr b",
+    "COURSE_INFORMATION_LINK": ".detthdr a",
+    "PAGE_NAVIGATION_LINKS":".plaintable .pldefaultsml center a",
+    "PAGE_NAVIGATION_LINKS_CURRENT":".plaintable .pldefaultsml center b"
+}
